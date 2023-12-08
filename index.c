@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <iostream>
-#include <time>
+#include <stdlib.h>
+#include <time.h>
 int main ()
 {
   int x = 20;
