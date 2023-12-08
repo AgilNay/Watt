@@ -2,10 +2,9 @@
 
 int main (){
 
-
-
+  printf ("Iva cantik");
   
 }
-
+h
 
 
